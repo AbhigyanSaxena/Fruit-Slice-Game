@@ -38,7 +38,7 @@ Open `index.html` in your browser
 
 ## 🌐 Live Demo
 
-(Will add after deployment)
+🔗 https://abhigyansaxena.github.io/Fruit-Slice-Game/
 
 ---
 
