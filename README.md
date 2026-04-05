@@ -26,7 +26,7 @@ A fun and interactive Fruit Slice Game inspired by Fruit Ninja, built using jQue
 
 ## 📸 Screenshot
 
-![Game Screenshot](Screenshot 2026-04-05 104651.png)
+![GAME Screenshot](GAME.png)
 
 ---
 
